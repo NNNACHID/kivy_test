@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "kivy-test"
+version = "0.1.0"
+description = "test of kivy framework*"
+authors = ["NNNACHID <n.n.nachid@protonmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+kivy = "^2.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

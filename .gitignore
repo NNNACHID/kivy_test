@@ -1,0 +1,12 @@
+# Ignore automatically generated files and directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Ignore environment-specific configuration files
+.env
+/.vscode
+/.idea
+/venv
