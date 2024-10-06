@@ -7,7 +7,7 @@ _  /_/ / _  /  _(__  ) __  /_/ /_  / / // /_/ / _  /  _  /  / /_/ /  / /_/ / _(_
                        /_/                                                           
 ```
 
-# Otis Traillarde website
+# Kivy Test Lab
 
 Lab for testing kivy
 
